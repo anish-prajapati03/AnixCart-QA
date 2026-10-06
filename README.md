@@ -1,22 +1,3 @@
-# ShopperStack QA Project
-
-## Project Overview
-
-ShopperStack is an e-commerce application tested as part of my QA practice project.
-
-## Testing Activities
-
-- Requirement Analysis
-- Test Scenario Design
-- Test Case Design
-- Functional Testing
-- Smoke Testing
-- Regression Testing
-- Defect Reporting
-- Test Execution
-- Jira & Zephyr
-# AnixCart QA Project
-
 ## Project Overview
 
 AnixCart is an e-commerce web application tested as part of my QA practice project. The project focuses on manual testing, API testing, test case design, test execution, and defect reporting.
